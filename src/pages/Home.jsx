@@ -19,7 +19,7 @@ const [loading,setloading] = useState(true)
 */
 
 useEffect(()=>{
-const loadPopularMovie = async()=>{
+const loadPopularMoviel = async()=>{
 
     try{
 
